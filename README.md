@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER ANIMADO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=Olá%2C+eu+sou+Set+Hudson!;Full+Stack+Developer;Analista+de+Dados;Entusiasta+de+IA+%26+Cibersegurança)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+Set+Hudson!;Full+Stack+Developer;Analista+de+Cibersegurança+Jr.;Análise+de+Dados+%7C+IA+%26+LLMs)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7c3aed&height=120&section=header&text=Set%20Hudson%20Leite%20Costa&fontColor=ffffff&fontSize=32&fontAlignY=65&animation=fadeIn" width="100%"/>
 
@@ -29,10 +29,11 @@ class SetHudson:
     def __init__(self):
         self.nome        = "Set Hudson Leite Costa"
         self.localizacao = "Goiânia, GO – Brasil"
-        self.formacao    = "ADS – UNIGRANDE (previsão 2027)"
-        self.empresa     = "SIRTEC Sistemas Elétricos | Assistente de Monitoramento"
-        self.foco        = ["Full Stack Dev", "Análise de Dados", "IA", "Cibersegurança"]
+        self.formacao    = "ADS – UNIGRANDE (previsão 2027) | C.R.E.: 8,53"
+        self.empresa     = "SIRTEC Sistemas Elétricos | Assistente de Monitoramento I"
+        self.foco        = ["Full Stack Dev", "Cibersegurança", "Análise de Dados", "IA & LLMs"]
         self.horas_cert  = "700+ horas de capacitação certificada"
+        self.cert_dest   = "Analista de Cibersegurança Júnior – Cisco NetAcad (Abr/2026)"
         self.pcd         = True  # Inclusão e diversidade
 
     def objetivo(self):
@@ -42,6 +43,8 @@ me = SetHudson()
 print(me.objetivo())
 # Output: "Construir soluções tecnológicas de impacto real"
 ```
+
+> Cursando **Análise e Desenvolvimento de Sistemas** pela UNIGRANDE (previsão 2027), com mais de **3 anos de experiência** na SIRTEC Sistemas Elétricos, atuando no Núcleo SMC SESMT em home office. Sólida formação técnica em Desenvolvimento Web, Python, Banco de Dados, Cibersegurança e Inteligência Artificial. Certificado como **Analista de Cibersegurança Júnior** pela Cisco Networking Academy (Abr/2026).
 
 ---
 
@@ -69,6 +72,7 @@ print(me.objetivo())
   &nbsp;
   <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/SOC%20Analyst-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firewall%20%26%20IPS-7c3aed?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
 ### Inteligência Artificial & Cloud
@@ -77,7 +81,7 @@ print(me.objetivo())
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/IA%20Generativa-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Agentes-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
@@ -87,6 +91,7 @@ print(me.objetivo())
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
   &nbsp;
   <img src="https://img.shields.io/badge/Protheus%20TOTVS-E30613?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sistema%20SOC%20Unimed-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />
 </p>
 
 ---
@@ -111,18 +116,22 @@ print(me.objetivo())
 
 ## Certificações em Destaque
 
-| Certificação | Instituição | Carga | Ano |
+| Certificação | Instituição | Carga | Período |
 |---|---|---|---|
-| <img src="https://img.shields.io/badge/Cisco-Cibersegurança%20Júnior-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> | Cisco Networking Academy | 120h | Abr/2026 |
+| <img src="https://img.shields.io/badge/Cisco-Analista%20Ciberseg.%20Júnior-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> | Cisco Networking Academy | 120h | Abr/2026 |
+| <img src="https://img.shields.io/badge/DIO-Aplicações%20Práticas%20de%20IA-7c3aed?style=flat-square&logo=anthropic&logoColor=white"/> | DIO | 2h | Abr/2026 |
 | <img src="https://img.shields.io/badge/IFRS-Adm.%20Banco%20de%20Dados-003087?style=flat-square&logo=databricks&logoColor=white"/> | IFRS | 200h | Mai/2025 |
 | <img src="https://img.shields.io/badge/IFRS-Python%20Basic%20%2F%20Inter%20%2F%20Adv-3776AB?style=flat-square&logo=python&logoColor=white"/> | IFRS | 96h | 2025 |
 | <img src="https://img.shields.io/badge/IFRS-JavaScript%20Fundamentos-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> | IFRS | 40h | Set/2025 |
 | <img src="https://img.shields.io/badge/IFRS-HTML5%20Fundamentos-E34F26?style=flat-square&logo=html5&logoColor=white"/> | IFRS | 40h | Jun/2025 |
-| <img src="https://img.shields.io/badge/UECE-Power%20BI%20%2F%20Dados-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> | UECE / Huawei | — | 2025 |
 | <img src="https://img.shields.io/badge/UECE-Suporte%20Técnico%20TI-00D4FF?style=flat-square&logo=helpdesk&logoColor=white"/> | UECE | 100h | Ago/2025 |
-| <img src="https://img.shields.io/badge/DIO-IA%20Generativa%20%26%20ML-FF6B35?style=flat-square&logo=openai&logoColor=white"/> | DIO | — | Abr/2026 |
-| <img src="https://img.shields.io/badge/DIO-Aplicações%20Práticas%20de%20IA-7c3aed?style=flat-square&logo=anthropic&logoColor=white"/> | DIO | 2h | Abr/2026 |
+| <img src="https://img.shields.io/badge/UECE-Power%20BI%20%2F%20Análise%20de%20Dados-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> | UECE / Huawei | — | 2025 |
+| <img src="https://img.shields.io/badge/UECE-Desenvolvimento%20de%20Sites-E34F26?style=flat-square&logo=html5&logoColor=white"/> | UECE | — | Ago/2025 |
+| <img src="https://img.shields.io/badge/IEPRO-Inglês%20Básico%20TI-0052CC?style=flat-square&logo=duolingo&logoColor=white"/> | IEPRO / UECE | 77h | Ago/2025 |
 | <img src="https://img.shields.io/badge/Cisco-Introdução%20Cibersegurança-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> | Cisco Networking Academy | — | Set/2025 |
+| <img src="https://img.shields.io/badge/DIO-IA%20Generativa%20%26%20ML%20%26%20LLMs-FF6B35?style=flat-square&logo=openai&logoColor=white"/> | DIO | 2h | 2025 |
+| <img src="https://img.shields.io/badge/DIO-Do%20Prompt%20ao%20Agente%20(CI%26T)-FF6B35?style=flat-square&logo=openai&logoColor=white"/> | DIO | 1h | 2025 |
+| <img src="https://img.shields.io/badge/SENAI-Segurança%20do%20Trabalho-E30613?style=flat-square&logo=senai&logoColor=white"/> | SENAI | 14h | Mai/2025 |
 
 > **700+ horas** de capacitação técnica certificada
 
@@ -131,34 +140,38 @@ print(me.objetivo())
 ## Experiência Profissional
 
 ### Assistente de Monitoramento I — SIRTEC Sistemas Elétricos
-**Out/2022 – Atual** | Home Office | Meio Turno (22h semanais)
+**Out/2022 – Atual** | Home Office | Meio Turno (22h semanais) | Núcleo SMC SESMT
 
 <p>
   <img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" height="28"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Protheus%20TOTVS-E30613?style=flat-square&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/SOC%20Unimed-00D4FF?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sistema%20GPM-7c3aed?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
-- Controle e gestão de **ASOs** em operações multi-regionais (BA, CE, RS e SP)
-- Operação dos sistemas **Protheus (TOTVS)** e **SOC Unimed**
+- Controle e gestão de **ASOs** (Atestados de Saúde Ocupacional) em operações multi-regionais: **BA, CE, RS e SP**
+- Solicitação de guias médicas periódicas, admissionais, demissionais e de retorno ao trabalho junto à **Unimed**
+- Operação e lançamento de registros no sistema **Protheus (TOTVS)**, garantindo conformidade e rastreabilidade
+- Atuação no sistema **SOC Unimed** para controle e acompanhamento de exames ocupacionais
 - Monitoramento em tempo real via **GPM** com análise de gravações e resposta a incidentes
 - Identificação, análise e resposta a **incidentes de segurança (SOC)**
-- Geração de **relatórios técnicos** | Avaliação de Desempenho (ADI): **85,79%**
+- Geração de **relatórios técnicos** detalhados
+- **Avaliação de Desempenho Individual (ADI): 85,79%**
 
 ---
 
 ## Formação Acadêmica
 
 ### Análise e Desenvolvimento de Sistemas (ADS)
-**UNIGRANDE** | Fev/2025 – Previsão 2027 | EAD | 3º Semestre
+**UNIGRANDE** | Fev/2025 – Previsão 2027 | EAD | 3º Semestre em andamento
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,git&theme=dark" height="28"/>
 </p>
 
-- C.R.E.: **8,53** | 660h cumpridas de 2000h (33%)
-- Disciplinas atuais: **Banco de Dados** | **Engenharia de Software** | **POO** | **Estatística**
+- **C.R.E.: 8,53** | 660h cumpridas de 2000h (33%)
+- Disciplinas em andamento: **Banco de Dados** · **Engenharia de Software** · **Análise de Sistemas (POO)** · **Técnicas de Implantação de BD** · **Estatística** · **Empreendedorismo**
 
 ---
 
@@ -166,9 +179,9 @@ print(me.objetivo())
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Portfólio Pessoal** | PWA com chatbot IA integrado e estética neon | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="20"/> |
-| **Luxury Baby SA** | Sistema web com painel fornecedor e Kanban | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="20"/> |
-| **SH-AI Chatbot** | Assistente IA com IndexedDB e Anthropic API | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="20"/> |
+| **Portfólio Pessoal** | PWA single-file com chatbot IA integrado (Anthropic API) e estética neon | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="20"/> |
+| **Luxury Baby SA** | Sistema web completo — site público + painel fornecedor, Kanban de produção, controle de estoque e dashboards | <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="20"/> |
+| **SH-AI Chatbot** | Assistente IA com persistência em IndexedDB e integração com a Anthropic API (Claude Sonnet) | <img src="https://skillicons.dev/icons?i=js&theme=dark" height="20"/> |
 
 ---
 
@@ -193,7 +206,8 @@ print(me.objetivo())
 ![ADS](https://img.shields.io/badge/ADS-UNIGRANDE%202027-00D4FF?style=flat-square)
 ![Engenharia de Software](https://img.shields.io/badge/Engenharia%20de%20Software-Em%20andamento-7c3aed?style=flat-square)
 ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-Em%20andamento-F2C811?style=flat-square&logo=mysql&logoColor=black)
-![IA & ML](https://img.shields.io/badge/IA%20%26%20ML-Aprendizado%20Contínuo-FF6B35?style=flat-square&logo=openai)
+![IA & ML](https://img.shields.io/badge/IA%20%26%20LLMs-Aprendizado%20Contínuo-FF6B35?style=flat-square&logo=openai)
+![Cibersegurança](https://img.shields.io/badge/Cibersegurança-Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
@@ -206,4 +220,5 @@ print(me.objetivo())
 ![Visitors](https://komarev.com/ghpvc/?username=sethudsondev&color=00d4ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
+
 
