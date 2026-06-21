@@ -83,55 +83,53 @@ Com mais de **700 horas de certificações técnicas** em desenvolvimento web, P
 
 ## 🛠️ Stack & Habilidades
 
+## 🛠️ Stack & Habilidades
+
 ### Linguagens & Frontend
 
 <p align="left">
-  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/python-original.svg" width="40" height="40" alt="Python"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/html5-original.svg" width="40" height="40" alt="HTML5"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" height="40"/>
 </p>
 
 ### Banco de Dados & Analytics
 
 <p align="left">
-  <a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>&nbsp;
-  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a>&nbsp;
-  <a href="https://www.sqlite.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/sqlite-original.svg" width="40" height="40" alt="SQLite"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ### Cibersegurança & Infraestrutura
 
 <p align="left">
-  <a href="https://www.linux.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/linux-original.svg" width="40" height="40" alt="Linux"/></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/bash-original.svg" width="40" height="40" alt="Bash"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SOC%20Analyst%20Jr.-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Analyst%20Jr.-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Firewall%20%26%20IPS-7c3aed?style=for-the-badge&logo=fortinet&logoColor=white" />
 </p>
 
 ### Inteligência Artificial & Cloud
 
 <p align="left">
-  <a href="https://www.tensorflow.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/></a>&nbsp;
-  <a href="https://numpy.org"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/numpy-original.svg" width="40" height="40" alt="NumPy"/></a>&nbsp;
-  <a href="https://cloud.google.com"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/IA%20Generativa-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LLMs%20%26%20Agentes-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/IA%20Generativa-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs%20%26%20Agentes-FF6B35?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Anthropic%20API-00D4FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
 
 ### Ferramentas & Gestão
 
 <p align="left">
-  <a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/git-original.svg" width="40" height="40" alt="Git"/></a>&nbsp;
-  <a href="https://github.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" style="filter:invert(1);" alt="GitHub"/></a>&nbsp;
-  <a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/vscode-original.svg" width="40" height="40" alt="VS Code"/></a>&nbsp;
-  <a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/!SVG/figma-original.svg" width="40" height="40" alt="Figma"/></a>&nbsp;
-  <img src="https://img.shields.io/badge/Protheus%20TOTVS-E30613?style=for-the-badge&logo=sap&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SCRUM-Foundation%2092.50%25-7c3aed?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" height="40"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Protheus%20TOTVS-E30613?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOC%20Unimed-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/SCRUM%20Foundation-7c3aed?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/92.50%25-nota-00D4FF?style=for-the-badge" />
 </p>
 
 ---
@@ -331,7 +329,7 @@ Out/2022 ───────────────────────�
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sethudsondev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sethudsondev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -344,36 +342,12 @@ Out/2022 ───────────────────────�
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sethudsondev/sethudsondev/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sethudsondev/sethudsondev/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/sethudsondev/sethudsondev/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sethudsondev/sethudsondev/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 </div>
 
-> ⚙️ **Para ativar a cobrinha:** Vá em **Settings → Actions → General → Workflow permissions** e habilite *"Read and write permissions"*. Depois crie o arquivo `.github/workflows/snake.yml` no seu repositório de perfil com o conteúdo abaixo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 0 * * *"
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: sethudsondev
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+> **⚙️ Setup da snake:** Crie o repositório `sethudsondev/sethudsondev` (mesmo nome do usuário), adicione o arquivo `.github/workflows/snake.yml` com o workflow do Platane/snk@v3 apontando para `github_user_name: sethudsondev`, habilite **Read and write permissions** em Settings → Actions → General, e rode o workflow manualmente pela primeira vez. Após o primeiro run, o SVG será gerado no branch `output` e a animação aparecerá automaticamente aqui.
 
 ---
 
@@ -385,35 +359,30 @@ Out/2022 ───────────────────────�
   <tr>
     <td align="center" width="20%">
       <a href="https://linkedin.com/in/sethudson">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="40" height="40" style="filter: invert(1);" /><br/>
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>linkedin.com/in/sethudson</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://sethudson.vercel.app">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" width="40" height="40" style="filter: invert(1);" /><br/>
-        <img src="https://img.shields.io/badge/Portfólio-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
         <sub><b>sethudson.vercel.app</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="mailto:sethudsonadsdev@gmail.com">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40" height="40" style="filter: invert(35%) sepia(90%) saturate(500%) hue-rotate(330deg);" /><br/>
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
         <sub><b>sethudsonadsdev@gmail.com</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://wa.me/5562994808922">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" width="40" height="40" style="filter: invert(50%) sepia(80%) saturate(400%) hue-rotate(90deg);" /><br/>
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br/>
         <sub><b>(62) 9 9480-8922</b></sub>
       </a>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/sethudsondev">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="40" height="40" style="filter: invert(1);" /><br/>
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
         <sub><b>sethudsondev</b></sub>
       </a>
