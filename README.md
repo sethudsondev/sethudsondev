@@ -12,7 +12,7 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Set%20Hudson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sethudson)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Set%20Hudson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethudson/)
 [![GitHub](https://img.shields.io/badge/GitHub-sethudsondev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sethudsondev)
 [![Portfólio](https://img.shields.io/badge/Portfólio-sethudson.vercel.app-00D4FF?style=for-the-badge&logo=vercel&logoColor=white)](https://sethudson.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contato-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sethudsonadsdev@gmail.com)
@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 Resumo Profissional
 
 ```python
 class SetHudson:
@@ -32,56 +32,27 @@ class SetHudson:
         self.localizacao = "Goiânia, GO — Brasil"
         self.formacao    = "ADS — UNIGRANDE (previsão 2027) | C.R.E.: 8,53 | 3º Semestre"
         self.empresa     = "SIRTEC Sistemas Elétricos | Assistente de Monitoramento I"
-        self.foco        = ["Full Stack Dev", "Cibersegurança Jr.", "Análise de Dados", "IA & LLMs"]
+        self.foco        = ["Desenvolvimento Web", "Cibersegurança Jr.", "Sistemas de Informação", "Análise de Dados & IA"]
         self.horas_cert  = "700+ horas de capacitação técnica certificada"
         self.cert_dest   = [
             "Analista de Cibersegurança Júnior — Cisco NetAcad (Abr/2026)",
             "SCRUM Foundation — IFRS (nota: 92,50%)",
         ]
-        self.rotina      = "Trabalho remoto + faculdade EAD + projetos próprios em paralelo"
         self.pcd         = True  # Inclusão e diversidade
-
-    def motivacao(self):
-        return "A tecnologia me escolheu antes de eu escolher ela."
 
     def objetivo(self):
         return "Construir soluções tecnológicas de impacto real — com propósito e pessoas no centro."
-
-    def onde_quero_chegar(self):
-        return [
-            "Atuar como Desenvolvedor Full Stack em produtos digitais de impacto",
-            "Consolidar carreira em Cibersegurança (SOC / Blue Team)",
-            "Integrar IA e automação em soluções que simplificam vidas reais",
-        ]
 
 me = SetHudson()
 print(me.objetivo())
 # Output: "Construir soluções tecnológicas de impacto real — com propósito e pessoas no centro."
 ```
 
----
+Estudante de **Análise e Desenvolvimento de Sistemas** (UNIGRANDE, previsão 2027, C.R.E. 8,53), com mais de **700 horas** de capacitação certificada em Desenvolvimento Web, Python, Banco de Dados, Cibersegurança e Inteligência Artificial. Atuo há mais de 3 anos na **SIRTEC Sistemas Elétricos**, onde já aplico monitoramento em tempo real e resposta a incidentes — experiência alinhada à trilha de Cibersegurança que venho construindo (Certificado **Cisco Analista de Cibersegurança Júnior**, Abr/2026). Em paralelo, desenvolvo projetos próprios aplicando o que estudo: ferramentas de proteção de dados sensíveis, plataforma EAD e chatbot com IA usando a **Anthropic API**.
 
-### 🧭 Quem sou eu
-
-Sou **Set Hudson Leite Costa**, desenvolvedor Full Stack e candidato a Analista de Cibersegurança Júnior, baseado em **Goiânia, GO**. Minha trajetória com tecnologia não começou em uma sala de aula — começou pela curiosidade, pela necessidade de resolver problemas reais e pela vontade de entender como as coisas funcionam por dentro.
-
-Hoje concilio três frentes em paralelo: trabalho remoto na **SIRTEC Sistemas Elétricos** (há mais de 3 anos no Núcleo SMC SESMT), a graduação em **Análise e Desenvolvimento de Sistemas** pela UNIGRANDE (C.R.E. 8,53), e o desenvolvimento constante de projetos próprios — desde ferramentas de proteção de dados sensíveis até plataformas EAD e sistemas de gestão completos.
-
-### 🎯 O que me move
-
-Acredito que tecnologia bem feita é aquela que coloca **pessoas em primeiro lugar**. Cada linha de código que escrevo, cada dashboard que estruturo, cada sistema que construo tem um usuário real do outro lado. Isso me motiva a ir além do funcional — quero que seja acessível, intuitivo e significativo.
-
-Sou **PcD**, e essa vivência me deu uma perspectiva única sobre inclusão e acessibilidade digital — valores que carrego em todos os projetos.
-
-### 🚀 Para onde vou
-
-Meu objetivo é atuar profissionalmente como **Desenvolvedor Full Stack** em produtos que gerem impacto real, enquanto aprofundo minha formação em **Cibersegurança** (SOC / Blue Team). Tenho especial interesse em integrar **IA e automação** em soluções que simplifiquem processos complexos — algo que já pratico nos meus projetos com a **Anthropic API** e modelos LLM.
-
-Com mais de **700 horas de certificações técnicas** em desenvolvimento web, Python, banco de dados, cibersegurança e inteligência artificial, estou construindo — bloco a bloco — a base para contribuir com times que fazem tecnologia de verdade.
+Sou **PcD**, e essa vivência me dá uma perspectiva única sobre inclusão e acessibilidade digital — valores que carrego em todos os projetos. Busco oportunidade para iniciar carreira em **Desenvolvimento Web, Cibersegurança, Sistemas de Informação ou Análise de Dados**.
 
 ---
-
-## 🛠️ Stack & Habilidades
 
 ## 🛠️ Stack & Habilidades
 
@@ -134,6 +105,21 @@ Com mais de **700 horas de certificações técnicas** em desenvolvimento web, P
 
 ---
 
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **[Portfólio Pessoal](https://sethudson.vercel.app)** | PWA single-file com chatbot IA integrado (Anthropic API / Claude Sonnet), estética própria, PWA com Service Worker | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
+| **MOSIC — CPF Mosaic** | Ferramenta de redação de dados sensíveis no browser com OCR (Tesseract.js): CPF, CNPJ, CRM, datas, códigos de beneficiário | ![JS](https://skillicons.dev/icons?i=js&theme=dark) |
+| **EduLivre** | Plataforma EAD open-source — single HTML app com IndexedDB, quizzes, flashcards, busca global e geração de certificados | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
+| **MaxFilms** | Plataforma de streaming — catálogo de 200 títulos, sistema de API configurável, PWA single-file | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
+| **Luxury Baby SA** | Sistema web completo: site público + painel fornecedor, Kanban de produção, controle de estoque e dashboards | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
+| **SH-AI Chatbot** | Assistente IA com persistência IndexedDB e integração Anthropic API (Claude Sonnet) | ![JS](https://skillicons.dev/icons?i=js&theme=dark) |
+
+> Repositório completo: [github.com/sethudsondev](https://github.com/sethudsondev)
+
+---
+
 ## 📅 Linha do Tempo
 
 ```
@@ -177,13 +163,11 @@ Out/2022 ───────────────────────�
   <img src="https://img.shields.io/badge/GPM-7c3aed?style=flat-square&logo=databricks&logoColor=white"/>
 </p>
 
-- Controle e gestão de **ASOs** (Atestados de Saúde Ocupacional) em operações multi-regionais: **BA, CE, RS e SP**
-- Solicitação de guias médicas periódicas, admissionais, demissionais e de retorno junto à **Unimed**
-- Operação e lançamento no sistema **Protheus (TOTVS)** garantindo conformidade e rastreabilidade
-- Atuação no **SOC Unimed** para controle e acompanhamento de exames ocupacionais
-- Monitoramento em tempo real via **GPM** com análise de gravações e resposta a incidentes
-- Identificação, análise e resposta a **incidentes de segurança (SOC)**
-- Geração de **relatórios técnicos** detalhados e avaliações psicossociais
+- Monitoramento em tempo real do sistema **GPM**, com análise de gravações e resposta a **incidentes de segurança**
+- Identificação, análise e elaboração de **relatórios técnicos** de incidentes (rotina alinhada à atuação **SOC**)
+- Controle e gestão de **ASOs** (Atestados de Saúde Ocupacional) em operações multirregionais: **BA, CE, RS e SP**
+- Lançamento e operação no sistema **Protheus (TOTVS)**, garantindo conformidade e rastreabilidade dos registros
+- Solicitação de guias médicas periódicas, admissionais, demissionais e de retorno junto à **Unimed**, com atuação no **SOC Unimed** para acompanhamento de exames ocupacionais
 - 🏆 **Avaliação de Desempenho Individual (ADI): 85,79%**
 
 ---
@@ -198,7 +182,8 @@ Out/2022 ───────────────────────�
 </p>
 
 - **C.R.E.: 8,53** · Matrícula: UG25139461 · 660h cumpridas de 2000h (33%)
-- Disciplinas atuais: **Banco de Dados** · **Engenharia de Software** · **Análise de Sistemas (POO)** · **Técnicas de Implantação de BD** · **Estatística** · **Empreendedorismo**
+- Disciplinas concluídas: Lógica de Programação · Matemática Computacional · Princípios de Sistemas de Informação · TIC · Arquitetura de Computadores · Sistemas Operacionais · Linguagem de Programação · Redes de Dados · Ética e Responsabilidade Social · Leitura e Produção Textual · Desenvolvimento Sustentável · Princípios de Economia
+- Disciplinas em andamento (2026.1): **Análise de Sistemas (POO)** · **Banco de Dados** · **Engenharia de Software** · **Técnicas de Implantação de BD** · **Estatística** · **Empreendedorismo**
 
 ---
 
@@ -207,9 +192,16 @@ Out/2022 ───────────────────────�
 | Certificação | Instituição | Carga | Período |
 |---|---|---|---|
 | ![Cisco](https://img.shields.io/badge/Cisco-Analista%20Ciberseg.%20Júnior-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cisco Networking Academy | 120h | Abr/2026 |
-| ![SCRUM](https://img.shields.io/badge/IFRS-SCRUM%20Foundation%20(92.50%25)-7c3aed?style=flat-square&logo=scrumalliance&logoColor=white) | IFRS | — | Abr/2026 |
-| ![DIO](https://img.shields.io/badge/DIO-Aplicações%20Práticas%20de%20IA-FF6B35?style=flat-square&logo=anthropic&logoColor=white) | DIO | 2h | Abr/2026 |
+| ![SCRUM](https://img.shields.io/badge/IFRS-SCRUM%20Foundation%20(92.50%25)-7c3aed?style=flat-square&logo=scrumalliance&logoColor=white) | IFRS | 40h | Jun/2026 |
 | ![BD](https://img.shields.io/badge/IFRS-Adm.%20Banco%20de%20Dados-003087?style=flat-square&logo=databricks&logoColor=white) | IFRS | 200h | Mai/2025 |
+
+<details>
+<summary><b>Ver todas as certificações (16 no total — 700+ horas)</b></summary>
+<br>
+
+| Certificação | Instituição | Carga | Período |
+|---|---|---|---|
+| ![DIO](https://img.shields.io/badge/DIO-Aplicações%20Práticas%20de%20IA-FF6B35?style=flat-square&logo=anthropic&logoColor=white) | DIO | 2h | Abr/2026 |
 | ![Python](https://img.shields.io/badge/IFRS-Python%20Basic%20%2F%20Inter%20%2F%20Adv-3776AB?style=flat-square&logo=python&logoColor=white) | IFRS | 96h | 2025 |
 | ![JS](https://img.shields.io/badge/IFRS-JavaScript%20Fundamentos-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | IFRS | 40h | Set/2025 |
 | ![HTML](https://img.shields.io/badge/IFRS-HTML5%20Fundamentos-E34F26?style=flat-square&logo=html5&logoColor=white) | IFRS | 40h | Jun/2025 |
@@ -223,20 +215,9 @@ Out/2022 ───────────────────────�
 | ![SENAI](https://img.shields.io/badge/SENAI-Segurança%20do%20Trabalho-E30613?style=flat-square) | SENAI | 14h | Mai/2025 |
 | ![Bradesco](https://img.shields.io/badge/Bradesco%2FMicrosoft-Excel%20%26%20Office-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Bradesco / Microsoft | — | — |
 
+</details>
+
 > 🏅 **700+ horas** de capacitação técnica certificada
-
----
-
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| **[Portfólio Pessoal](https://sethudson.vercel.app)** | PWA single-file com chatbot IA integrado (Anthropic API / Claude Sonnet), estética neon/cyberpunk, PWA com Service Worker | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
-| **MOSIC — CPF Mosaic** | Ferramenta de redação de dados sensíveis no browser com OCR (Tesseract.js): CPF, CNPJ, CRM, datas, códigos de beneficiário | ![JS](https://skillicons.dev/icons?i=js&theme=dark) |
-| **EduLivre** | Plataforma EAD open-source — single HTML app com IndexedDB, quizzes, flashcards, busca global e geração de certificados | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
-| **MaxFilms** | Plataforma de streaming — catálogo de 200 títulos, sistema de API configurável, PWA single-file | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
-| **Luxury Baby SA** | Sistema web completo: site público + painel fornecedor, Kanban de produção, controle de estoque e dashboards | ![HTML](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=3) |
-| **SH-AI Chatbot** | Assistente IA com persistência IndexedDB e integração Anthropic API (Claude Sonnet) | ![JS](https://skillicons.dev/icons?i=js&theme=dark) |
 
 ---
 
@@ -302,7 +283,7 @@ Out/2022 ───────────────────────�
 </p>
 
   </td>
-  <td valign="top" width="50%">
+    <td valign="top" width="50%">
 
 ### 🧠 Soft Skills
 
@@ -358,7 +339,7 @@ Out/2022 ───────────────────────�
 <table>
   <tr>
     <td align="center" width="20%">
-      <a href="https://linkedin.com/in/sethudson">
+      <a href="https://www.linkedin.com/in/sethudson/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
         <sub><b>linkedin.com/in/sethudson</b></sub>
       </a>
