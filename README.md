@@ -32,11 +32,11 @@ class SetHudson:
         self.localizacao = "Goiânia, GO — Brasil"
         self.formacao    = "ADS — UNIGRANDE (previsão 2027) | C.R.E.: 8,53 | 3º Semestre"
         self.empresa     = "SIRTEC Sistemas Elétricos | Assistente de Monitoramento I"
-        self.foco        = ["Desenvolvimento Web", "Cibersegurança Jr.", "Sistemas de Informação", "Análise de Dados & IA"]
+        self.foco        = ["Desenvolvimento Web", "Cibersegurança", "Segurança da Informação", "Sistemas de Informação", "Engenharia de Software", "Análise de Dados & IA"]
         self.horas_cert  = "700+ horas de capacitação técnica certificada"
         self.cert_dest   = [
             "Analista de Cibersegurança Júnior — Cisco NetAcad (Abr/2026)",
-            "SCRUM Foundation — IFRS (nota: 92,50%)",
+            "Administrador de Banco de Dados — IFRS (200h)",
         ]
         self.pcd         = True  # Inclusão e diversidade
 
@@ -99,8 +99,7 @@ Sou **PcD**, e essa vivência me dá uma perspectiva única sobre inclusão e ac
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Protheus%20TOTVS-E30613?style=for-the-badge&logo=sap&logoColor=white" />
   <img src="https://img.shields.io/badge/SOC%20Unimed-00D4FF?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/SCRUM%20Foundation-7c3aed?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/92.50%25-nota-00D4FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gestão%20de%20Projetos-7c3aed?style=for-the-badge&logo=trello&logoColor=white" />
 </p>
 
 ---
@@ -143,7 +142,6 @@ Out/2022 ───────────────────────�
     │                   Introdução à Cibersegurança — Cisco NetAcad
     │
     ├─ 🏆 Abr/2026  →  Cisco Networking Academy — Analista de Ciberseg. Júnior (120h)
-    │                   SCRUM Foundation — IFRS (nota: 92,50%)
     │
     └─ 🎓 2027 (prev.)  →  Conclusão ADS — UNIGRANDE
 ```
@@ -184,6 +182,7 @@ Out/2022 ───────────────────────�
 - **C.R.E.: 8,53** · Matrícula: UG25139461 · 660h cumpridas de 2000h (33%)
 - Disciplinas concluídas: Lógica de Programação · Matemática Computacional · Princípios de Sistemas de Informação · TIC · Arquitetura de Computadores · Sistemas Operacionais · Linguagem de Programação · Redes de Dados · Ética e Responsabilidade Social · Leitura e Produção Textual · Desenvolvimento Sustentável · Princípios de Economia
 - Disciplinas em andamento (2026.1): **Análise de Sistemas (POO)** · **Banco de Dados** · **Engenharia de Software** · **Técnicas de Implantação de BD** · **Estatística** · **Empreendedorismo**
+- Áreas de interesse: Engenharia de Software · Sistemas de Informação · Inteligência Artificial · Segurança da Informação
 
 ---
 
@@ -192,17 +191,16 @@ Out/2022 ───────────────────────�
 | Certificação | Instituição | Carga | Período |
 |---|---|---|---|
 | ![Cisco](https://img.shields.io/badge/Cisco-Analista%20Ciberseg.%20Júnior-1BA0D7?style=flat-square&logo=cisco&logoColor=white) | Cisco Networking Academy | 120h | Abr/2026 |
-| ![SCRUM](https://img.shields.io/badge/IFRS-SCRUM%20Foundation%20(92.50%25)-7c3aed?style=flat-square&logo=scrumalliance&logoColor=white) | IFRS | 40h | Jun/2026 |
+| ![Python](https://img.shields.io/badge/IFRS-Python%20Basic%20%2F%20Inter%20%2F%20Adv-3776AB?style=flat-square&logo=python&logoColor=white) | IFRS | 96h | 2025 |
 | ![BD](https://img.shields.io/badge/IFRS-Adm.%20Banco%20de%20Dados-003087?style=flat-square&logo=databricks&logoColor=white) | IFRS | 200h | Mai/2025 |
 
 <details>
-<summary><b>Ver todas as certificações (16 no total — 700+ horas)</b></summary>
+<summary><b>Ver todas as certificações (14 no total — 700+ horas)</b></summary>
 <br>
 
 | Certificação | Instituição | Carga | Período |
 |---|---|---|---|
 | ![DIO](https://img.shields.io/badge/DIO-Aplicações%20Práticas%20de%20IA-FF6B35?style=flat-square&logo=anthropic&logoColor=white) | DIO | 2h | Abr/2026 |
-| ![Python](https://img.shields.io/badge/IFRS-Python%20Basic%20%2F%20Inter%20%2F%20Adv-3776AB?style=flat-square&logo=python&logoColor=white) | IFRS | 96h | 2025 |
 | ![JS](https://img.shields.io/badge/IFRS-JavaScript%20Fundamentos-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | IFRS | 40h | Set/2025 |
 | ![HTML](https://img.shields.io/badge/IFRS-HTML5%20Fundamentos-E34F26?style=flat-square&logo=html5&logoColor=white) | IFRS | 40h | Jun/2025 |
 | ![TI](https://img.shields.io/badge/UECE-Suporte%20Técnico%20TI-00D4FF?style=flat-square) | UECE | 100h | Ago/2025 |
@@ -213,7 +211,6 @@ Out/2022 ───────────────────────�
 | ![GenAI](https://img.shields.io/badge/DIO-IA%20Generativa%20%26%20ML%20%26%20LLMs-FF6B35?style=flat-square&logo=openai&logoColor=white) | DIO | 2h | 2025 |
 | ![Agente](https://img.shields.io/badge/DIO-Do%20Prompt%20ao%20Agente%20(CI%26T)-FF6B35?style=flat-square&logo=openai&logoColor=white) | DIO | 1h | 2025 |
 | ![SENAI](https://img.shields.io/badge/SENAI-Segurança%20do%20Trabalho-E30613?style=flat-square) | SENAI | 14h | Mai/2025 |
-| ![Bradesco](https://img.shields.io/badge/Bradesco%2FMicrosoft-Excel%20%26%20Office-217346?style=flat-square&logo=microsoftexcel&logoColor=white) | Bradesco / Microsoft | — | — |
 
 </details>
 
@@ -262,7 +259,6 @@ Out/2022 ───────────────────────�
 ![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-Em%20andamento-F2C811?style=flat-square&logo=mysql&logoColor=black)
 ![IA & ML](https://img.shields.io/badge/IA%20%26%20LLMs-Aprendizado%20Contínuo-FF6B35?style=flat-square&logo=openai)
 ![Cibersegurança](https://img.shields.io/badge/Cibersegurança-Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![SCRUM](https://img.shields.io/badge/SCRUM-Foundation%2092.50%25-7c3aed?style=flat-square&logo=scrumalliance&logoColor=white)
 
 </div>
 
@@ -296,7 +292,7 @@ Out/2022 ───────────────────────�
   <img src="https://img.shields.io/badge/⏱️-Gestão%20de%20Tempo-FF6B35?style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/📖-Aprendizado%20Contínuo-00D4FF?style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/🤝-Trabalho%20em%20Equipe-7c3aed?style=flat-square" /><br/>
-  <img src="https://img.shields.io/badge/🔄-Metodologia%20SCRUM-FF6B35?style=flat-square&logo=scrumalliance&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/🚀-Liderança%20sob%20Pressão-FF6B35?style=flat-square" /><br/>
   <img src="https://img.shields.io/badge/♿-Inclusão%20%26%20Diversidade%20(PcD)-25D366?style=flat-square" />
 </p>
 
