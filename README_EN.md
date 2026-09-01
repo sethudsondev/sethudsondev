@@ -2,6 +2,7 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/Português-30363D?style=flat-square" alt="Português"/></a>
 <a href="README_EN.md"><img src="https://img.shields.io/badge/English-58A6FF?style=flat-square" alt="English"/></a>
+<a href="README_ES.md"><img src="https://img.shields.io/badge/Español-30363D?style=flat-square" alt="Español"/></a>
 
 <br/><br/>
 
@@ -22,15 +23,19 @@ Goiânia, GO — Brazil · CS undergrad (UNIGRANDE, 2027) · 3+ years at SIRTEC 
 
 ## About
 
-Information Systems / Software Development undergraduate (**UNIGRANDE**, expected 2027) — 4th semester, **GPA 9.05/10**, 51% completed — with **700+ hours** of certified training in Web Development, Python, Databases, Cybersecurity and AI.
+I got into tech wanting to understand how things work under the hood — and never stopped. Today I study **Systems Analysis & Development** at UNIGRANDE — 4th semester, GPA **9.05/10**, 51% of the course done — with **700+ hours** of certified training across web development, Python, databases, cybersecurity and AI.
 
-**3+ years** at **SIRTEC Sistemas Elétricos** (SMC / Occupational Safety unit, remote): real-time monitoring, incident response, technical reports and operation of enterprise systems (**Protheus/TOTVS**, **SOC Unimed**) across multi-region operations (4 Brazilian states). Alongside work, I build my own projects — sensitive-data redaction, an open-source e-learning platform, and AI chatbots on the **Anthropic API**.
+For **three-plus years** I've been on the monitoring team at **SIRTEC Sistemas Elétricos** — watching systems in real time, responding to incidents, writing technical reports and running enterprise platforms (**Protheus/TOTVS**, **SOC Unimed**) for operations across four Brazilian states. That job taught me two things I carry into my code: staying calm under pressure — and catching the detail everyone else misses.
 
-Key certifications: **Cisco Junior Cybersecurity Analyst** (Apr/2026) and **SCRUM / Agile Project Management — IFRS** (Jun/2026, 92.5%). I'm a **person with a disability (PwD)** and bring accessibility and inclusion to the center of every project. Open to roles in **Web Development, Cybersecurity, Information Systems and Data Analysis**.
+Off the clock, I build — my own sensitive-data redaction tools, an open-source learning platform, chatbots on the **Anthropic API**. That's how studying turns into real skill.
+
+I'm a **person with a disability**, and it shaped how I think about software: accessibility and inclusion aren't a finishing touch — they're the starting point. I'm now looking for my place in **web development, cybersecurity, information systems or data analysis**.
+
+> Certifications I'm proud of: **Cisco Junior Cybersecurity Analyst** (Apr/2026) and **SCRUM / Agile Project Management — IFRS** (Jun/2026 · 92.5%).
 
 ```python
-def goal() -> str:
-    return "Build technology with real impact — purpose first, people first."
+def purpose() -> str:
+    return "Technology with real impact — purpose first, people first."
 ```
 
 ---

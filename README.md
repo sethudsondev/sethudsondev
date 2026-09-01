@@ -2,6 +2,7 @@
 
 <a href="README.md"><img src="https://img.shields.io/badge/Português-58A6FF?style=flat-square" alt="Português"/></a>
 <a href="README_EN.md"><img src="https://img.shields.io/badge/English-30363D?style=flat-square" alt="English"/></a>
+<a href="README_ES.md"><img src="https://img.shields.io/badge/Español-30363D?style=flat-square" alt="Español"/></a>
 
 <br/><br/>
 
@@ -22,15 +23,19 @@ Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 3+ anos na SIRT
 
 ## Sobre
 
-Estudante de **Análise e Desenvolvimento de Sistemas** (UNIGRANDE, previsão 2027) — 4º semestre, **C.R.E. 9,05**, 51% integralizado — com **700+ horas** de capacitação certificada em Desenvolvimento Web, Python, Banco de Dados, Cibersegurança e IA.
+Entrei na tecnologia querendo entender como as coisas funcionam por dentro — e nunca mais parei. Hoje curso **Análise e Desenvolvimento de Sistemas** na UNIGRANDE — 4º semestre, C.R.E. **9,05**, 51% do curso concluído — e já reúno mais de **700 horas** de formação certificada em desenvolvimento web, Python, banco de dados, cibersegurança e IA.
 
-Há **mais de 3 anos** na **SIRTEC Sistemas Elétricos** (Núcleo SMC/SESMT, home office): monitoramento em tempo real, resposta a incidentes, relatórios técnicos e operação de sistemas corporativos (**Protheus/TOTVS**, **SOC Unimed**) em operações multirregionais (BA, CE, RS, SP). Em paralelo, construo projetos próprios — proteção de dados sensíveis, plataforma EAD open-source e chatbots com a **Anthropic API**.
+Há **mais de três anos** faço parte do time de monitoramento da **SIRTEC Sistemas Elétricos** — acompanho sistemas em tempo real, respondo a incidentes, escrevo relatórios técnicos e opero plataformas corporativas (**Protheus/TOTVS**, **SOC Unimed**) para operações em quatro estados. Foi um trabalho que me ensinou duas coisas que carrego para o código: manter a calma sob pressão — e enxergar o detalhe que passa despercebido.
 
-Certificações-chave: **Cisco Analista de Cibersegurança Júnior** (Abr/2026) e **SCRUM / Gestão Ágil — IFRS** (Jun/2026, 92,5%). Sou **PcD** e trago acessibilidade e inclusão para o centro de cada projeto. Aberto a oportunidades em **Desenvolvimento Web, Cibersegurança, Sistemas de Informação e Análise de Dados**.
+Fora do expediente, eu construo — minhas próprias ferramentas de proteção de dados sensíveis, uma plataforma de ensino open-source, chatbots com a **Anthropic API**. É assim que o estudo vira prática de verdade.
+
+Sou uma **pessoa com deficiência**, e isso moldou o jeito como penso software: acessibilidade e inclusão não são um retoque no fim — são o ponto de partida. Agora procuro meu espaço em **desenvolvimento web, cibersegurança, sistemas de informação ou análise de dados**.
+
+> Certificações que me orgulham: **Analista de Cibersegurança Júnior — Cisco** (Abr/2026) e **SCRUM / Gestão Ágil de Projetos — IFRS** (Jun/2026 · 92,5%).
 
 ```python
-def objetivo() -> str:
-    return "Construir soluções tecnológicas de impacto real — com propósito e pessoas no centro."
+def proposito() -> str:
+    return "Tecnologia com impacto real — propósito primeiro, pessoas primeiro."
 ```
 
 ---
