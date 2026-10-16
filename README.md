@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Ciberseguran%C3%A7a+J%C3%BAnior;An%C3%A1lise+de+Dados+%7C+IA+%26+LLMs;SCRUM+%7C+Gest%C3%A3o+%C3%81gil)](https://git.io/typing-svg)
 
-Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 3+ anos na SIRTEC Sistemas Elétricos
+Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 4+ anos na SIRTEC Sistemas Elétricos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethudson/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://sethudson.vercel.app)
