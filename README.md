@@ -8,9 +8,9 @@
 
 # Set Hudson Leite Costa
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+Developer;Analista+de+Ciberseguran%C3%A7a+J%C3%BAnior;An%C3%A1lise+de+Dados+%7C+IA+%26+LLMs;SCRUM+%7C+Gest%C3%A3o+%C3%81gil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Analista+de+Ciberseguran%C3%A7a+J%C3%BAnior;Administrador+de+Banco+de+Dados+%7C+Power+BI;An%C3%A1lise+de+Dados+%7C+IA+%26+LLMs;SCRUM+%7C+Gest%C3%A3o+%C3%81gil)](https://git.io/typing-svg)
 
-Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 4+ anos na SIRTEC Sistemas Elétricos
+Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 4+ anos na SIRTEC Sistemas Elétricos · Remoto | Híbrido | Presencial
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sethudson/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=flat-square&logo=vercel&logoColor=white)](https://sethudson.vercel.app)
@@ -25,11 +25,13 @@ Goiânia, GO — Brasil · Estudante de ADS (UNIGRANDE, 2027) · 4+ anos na SIRT
 
 Entrei na tecnologia querendo entender como as coisas funcionam por dentro — e nunca mais parei. Hoje curso **Análise e Desenvolvimento de Sistemas** na UNIGRANDE — 4º semestre, C.R.E. **9,05**, 51% do curso concluído — e já reúno mais de **700 horas** de formação certificada em desenvolvimento web, Python, banco de dados, cibersegurança e IA.
 
-Há **mais de três anos** faço parte do time de monitoramento da **SIRTEC Sistemas Elétricos** — acompanho sistemas em tempo real, respondo a incidentes, escrevo relatórios técnicos e opero plataformas corporativas (**Protheus/TOTVS**, **SOC Unimed**) para operações em quatro estados. Foi um trabalho que me ensinou duas coisas que carrego para o código: manter a calma sob pressão — e enxergar o detalhe que passa despercebido.
+Há **mais de quatro anos** faço parte do time do **Núcleo SMC / SESMT da SIRTEC Sistemas Elétricos** — acompanho sistemas em tempo real, respondo a incidentes, escrevo relatórios técnicos e opero plataformas corporativas (**Protheus/TOTVS**, **SOC Unimed**) para operações em quatro estados (BA, CE, RS e SP). Foi um trabalho que me ensinou duas coisas que carrego para o código: manter a calma sob pressão — e enxergar o detalhe que passa despercebido.
+
+Desde **outubro/2026** também participo do **Programa Effective** (Grupo Fartura de Hortifrut S.A.), um programa de inclusão e capacitação profissional de pessoas com deficiência, em meio turno.
 
 Fora do expediente, eu construo — minhas próprias ferramentas de proteção de dados sensíveis, uma plataforma de ensino open-source, chatbots com a **Anthropic API**. É assim que o estudo vira prática de verdade.
 
-Sou uma **pessoa com deficiência**, e isso moldou o jeito como penso software: acessibilidade e inclusão não são um retoque no fim — são o ponto de partida. Agora procuro meu espaço em **desenvolvimento web, cibersegurança, sistemas de informação ou análise de dados**.
+Sou uma **pessoa com deficiência (PCD)**, e isso moldou o jeito como penso software: acessibilidade e inclusão não são um retoque no fim — são o ponto de partida. Agora procuro meu espaço em **desenvolvimento web, cibersegurança, segurança da informação, engenharia de software, sistemas de informação, administração de banco de dados ou análise de dados**.
 
 > Certificações que me orgulham: **Analista de Cibersegurança Júnior — Cisco** (Abr/2026) e **SCRUM / Gestão Ágil de Projetos — IFRS** (Jun/2026 · 92,5%).
 
@@ -43,10 +45,10 @@ def proposito() -> str:
 ## Stack
 
 **Linguagens** &nbsp;Python · JavaScript · HTML5 · CSS · SQL · Java (acadêmico)
-**Dados & BI** &nbsp;MySQL · PostgreSQL · SQLite · Power BI · Excel · Modelagem e consultas SQL
-**Cibersegurança** &nbsp;Linux · Bash · Cisco NetAcad · SOC / análise de incidentes · Firewall & IPS · Defesa em profundidade
-**IA** &nbsp;IA Generativa · LLMs & Agentes · Anthropic API · TensorFlow · scikit-learn
-**Ferramentas & Métodos** &nbsp;Git & GitHub · VS Code · Figma · SCRUM / Ágil · Protheus (TOTVS)
+**Dados & BI** &nbsp;MySQL · PostgreSQL · SQLite · Power BI · Excel · Administração de BD · Modelagem e consultas SQL
+**Cibersegurança** &nbsp;Linux · Bash · Cisco NetAcad · SOC / análise de incidentes · Firewall & IPS · Defesa em profundidade · Segurança da Informação
+**IA** &nbsp;IA Generativa · LLMs & Agentes · Machine Learning · Anthropic API · TensorFlow · scikit-learn
+**Ferramentas & Métodos** &nbsp;Git & GitHub · VS Code · Figma · SCRUM / Ágil · Protheus (TOTVS) · Sistema GPM · SOC Unimed
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,postgres,sqlite,linux,bash,tensorflow,sklearn,git,github,vscode,figma&theme=dark&perline=8" alt="stack"/>
@@ -70,13 +72,19 @@ def proposito() -> str:
 
 ## Experiência
 
+**Participante do Programa Effective** — Grupo Fartura de Hortifrut S.A. · Out/2026 – Atual
+_Remoto · Meio turno (13h às 17h, seg. a sex. · 20h semanais) · Capacitação: NURAP_
+
+- Programa de inclusão e capacitação profissional de pessoas com deficiência, com duração de até 24 meses
+- Atividades de capacitação e interação social em formato remoto, com acompanhamento técnico de instrutores especializados
+
 **Assistente de Monitoramento I** — SIRTEC Sistemas Elétricos Ltda. · Out/2022 – Atual
 _Home office · ~22h semanais · Núcleo SMC / SESMT_
 
 - Monitoramento em tempo real do sistema **GPM**, análise de gravações e resposta a **incidentes de segurança**
 - Identificação, análise e **relatórios técnicos** de incidentes — rotina alinhada a operações de **SOC**
 - Controle e gestão de **ASOs** em operações multirregionais (BA, CE, RS, SP); lançamentos no **Protheus (TOTVS)** com conformidade e rastreabilidade
-- Guias médicas junto à **Unimed** e acompanhamento de exames ocupacionais no **SOC Unimed**
+- Solicitação de guias médicas (periódicas, admissionais, demissionais e de retorno ao trabalho) junto à **Unimed** e acompanhamento de exames ocupacionais no **SOC Unimed**
 - Atuação em **SESMT** · **Avaliação de Desempenho Individual (ADI): 85,79%**
 
 ---
@@ -84,7 +92,7 @@ _Home office · ~22h semanais · Núcleo SMC / SESMT_
 ## Formação & Certificações
 
 **Análise e Desenvolvimento de Sistemas** — UNIGRANDE · Fev/2025 – 2027 · EAD · 4º semestre
-C.R.E. **9,05** · 1.020h de 2.000h (51%) · Concluídas: Banco de Dados, Engenharia de Software, POO, Estatística, Técnicas de Implantação de BD, Redes, Arquitetura de Computadores, Sistemas Operacionais, Linguagem de Programação · Em curso (2026.2): POO, Software para Internet, Teste de Software, Design UX, LIBRAS
+C.R.E. **9,05** · 1.020h de 2.000h (51%) · Concluídas: Banco de Dados, Engenharia de Software, Análise de Sistemas Orientada a Objetos, Estatística, Técnicas de Implantação de BD, Redes de Dados, Arquitetura de Computadores, Sistemas Operacionais, Linguagem de Programação, Plano de Negócios e Empreendedorismo · Em curso (2026.2): POO, Software para Internet, Teste de Software, Design UX, Gestão das Informações nas Organizações, Atividades Integradas de Extensão I, LIBRAS
 
 **Operador de Computador** — Instituto Federal Baiano · 2017 · 160h
 
@@ -106,7 +114,7 @@ C.R.E. **9,05** · 1.020h de 2.000h (51%) · Concluídas: Banco de Dados, Engenh
 | HTML5: Fundamentos para Construção de Páginas Web | IFRS | 40h | Jun/2025 |
 | Suporte Técnico em Tecnologia da Informação | UECE | 100h | Ago/2025 |
 | Desenvolvimento de Sites — HTML e CSS | UECE | — | Ago/2025 |
-| Análise de Dados no Power BI · Visão Analítica de Dados | UECE / Parceiros | — | 2025 |
+| Análise de Dados no Power BI · Power BI para Educação · Visão Analítica de Dados | UECE / Parceiros | — | 2025 |
 | Inglês Básico com ênfase em TI | IEPRO / UECE | 77h | Ago/2025 |
 | Segurança do Trabalho — Iniciação Profissional | SENAI | 14h | Mai/2025 |
 | A Era da IA: ML, LLMs, IA Generativa e Agentes | DIO | 2h | 2025 |
@@ -116,11 +124,13 @@ C.R.E. **9,05** · 1.020h de 2.000h (51%) · Concluídas: Banco de Dados, Engenh
 
 ---
 
-## Idiomas & Soft skills
+## Idiomas, Soft skills & Disponibilidade
 
 **Português** nativo · **Inglês** básico com ênfase em TI (77h)
 
-Comunicação efetiva · Pensamento analítico · Proatividade · Atenção a detalhes · Autonomia em home office · Gestão de tempo · Aprendizado contínuo · Trabalho em equipe
+Comunicação efetiva · Trabalho em equipe · Liderança sob pressão · Pensamento analítico · Atenção a detalhes · Proatividade · Adaptabilidade · Autonomia em home office · Gestão de tempo · Aprendizado contínuo
+
+**Disponibilidade:** trabalho remoto, híbrido ou presencial · flexibilidade para turnos variados · referências profissionais mediante solicitação.
 
 ---
 
